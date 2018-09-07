@@ -19,5 +19,5 @@ https://store.docker.com
 7. Run odoo\
 ```docker-compose up ```
 
-8. Open Web Browser
+8. Open Web Browser\
 ```http://localhost:8069```
