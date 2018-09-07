@@ -4,11 +4,11 @@
 https://www.docker.com/get-started
 
 2.Create Docker Account\
-https://store.docker.com/
+https://store.docker.com
 
-3. Install Docker
+3.Install Docker
 
-4. Open and Login Docker
+4.Open and Login Docker
 
 5.Clone Project\
 ```git clone https://github.com/gapgag55/Odoo-with-Docker.git```
