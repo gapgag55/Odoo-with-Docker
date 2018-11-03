@@ -21,3 +21,6 @@ https://store.docker.com
 
 8. Open Web Browser\
 ```http://localhost:8069```
+
+# Add External Plugin (Addons)
+Just download modules from odoo website and copy folder into addons folder
